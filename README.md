@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Evgeniia
 
-I'm new frontend developer without background of formal computer science 🐣
-Currently i'm exploring advanced concepts of Javascript, Typescript and React
+I'm new frontend developer without formal background in computer science 🐣
+Currently i'm exploring advanced concepts of Javascript, Typescript and React.
 
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniyazhavoronkova/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zh.evgeniia@gmail.com)
+[![zh.evgeniia@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zh.evgeniia@gmail.com)
 ## Skills and tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
