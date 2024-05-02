@@ -2,8 +2,8 @@
 
 I'm Evgeniia and based in Oslo, Norway. 
 <br></br>
-I'm new frontend developer without formal background in computer science 🐣
-Currently i'm exploring advanced concepts of Javascript, Typescript and React.
+I'm new to frontend development but growing fast 🐣
+Currently I'm exploring advanced concepts of Javascript, Typescript and React.
 
 ## Contact me
 
