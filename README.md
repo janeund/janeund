@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 I'm Evgeniia and based in Oslo, Norway. 
-<br></br>
-I have a background in marketing and now work as a frontend developer at a WordPress agency, building client websites and writing custom HTML/CSS/JS.
-I'm also expanding into React and TypeScript through personal projects.
+
 
 ## Contact me
 
